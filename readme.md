@@ -1,0 +1,1 @@
+#getting sending request to custom json file using old school method
